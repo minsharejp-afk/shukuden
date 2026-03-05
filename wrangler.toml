@@ -1,6 +1,5 @@
-[build]
-  command = ""
-  publish = "public"
+name = "shukuden"
+compatibility_date = "2026-03-05"
 
-[functions]
-  directory = "functions"
+[assets]
+directory = "./public"
